@@ -91,7 +91,7 @@ Now you've edited a file, commit it with a message in your GUI e.g. 'Now ignorin
 
 >*.DS_Store* -- in the .gitignore you will already find a file name. This is a Mac generated file, it is not part of the coding project and should be ignored. The file helps Macs perform spotlight searches.
 
-> *Can't find .gitignore?*  -- sometimes the .gitignore file is not visible on your system. To avoid using terminal, one solution is to make the change on the GitHub account and then re-syncing with your local copy. Otherwise, why not try [Atom](https://atom.io/)?
+> *Can't find .gitignore?*  -- sometimes the .gitignore file is not visible on your system. In the GitHub GUI you can modify the .gitignore by clicking in the menu bar Repository --> Repository Settings .... --> Ignored Files
 
 **2. Add a .csv file to the repo**
 
