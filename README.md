@@ -47,9 +47,9 @@ Every repo on GitHub can be forked. Look for the fork button in the top right co
 
 In your GitHub GUI, select the + sign in the top-left corner. And clone the recently forked repo. This will create a complete copy of the repository on your machine.
 
-<img src="https://mac.github.com/images/screens/repositories.png" alt="Cloning" style="width: 271px;"/>
+<img src="https://help.github.com/assets/images/help/desktop/clone-select-repo-win.png" alt="Cloning" style="width: 271px;"/>
 
->*Clone*  -- copy a repo, to which you have access, to your own computer.
+>*Clone*  -- copy to your own computer a repo to which you have access.
 
 **3. Make a change**
 
@@ -67,7 +67,7 @@ in fields purple.*
 
 Now you've made a change to `script.md`, you'll see the GUI tell you what changes you have made. Commit your change with a message e.g. "I made the poem better". Then click the sync button in the top-right corner and check your copy online: `https://github.com/[YOUR ACCOUNT NAME]/Teaching-github`. Also check out the history of `script.md` online or on your GUI.
 
-<img src="https://mac.github.com/images/screens/sync.png" alt="Syncing" style="width: 271px;"/>
+<img src="https://i.stack.imgur.com/7a4dj.jpg" alt="Syncing" style="width: 271px;"/>
 
 >*Commit*  -- A change with a message (e.g. corrected infinite loop in myscript.sh) that can then be pushed to GitHub. All changes made must be committed in order to sync them.
 
