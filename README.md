@@ -24,7 +24,7 @@ Don't know *any* git or GitHub? Then this is for you! It's a very simple hands-o
 
 * GitHub GUI (install for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/))
 * GitHub account (get an account [here](https://github.com/join))
-* Good text-editor (e.g. [Atom](https://atom.io/), but notepad or similar will work)
+* Good text-editor (notepad, textedit or similar will work)
 * Internet connection
 
 ### Instructions
