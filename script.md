@@ -5,9 +5,9 @@ this is markdown, a simple mark-up language for displaying text.
 
 So without further ado here's a poem ....
 
-## The sheep
+## The goat
 
-*The sheep is alone.  
+*The goat is alone.  
 A single white dot,  
 in fields green.*
 
@@ -22,7 +22,7 @@ A world which gyrates,
 and gyrates,  
 and gyrates.*
 
-*But the sheep is alone.  
+*But the goat is alone.  
 A meagre white skull lies,  
 in white winter snow.*
 
