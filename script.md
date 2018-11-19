@@ -5,6 +5,7 @@ this is markdown, a simple mark-up language for displaying text.
 
 So without further ado here's a poem ....
 
+pear
 ## The goat
 
 *The goat is alone.  
