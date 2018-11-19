@@ -4,6 +4,7 @@ This is an example script that is version-controlled. In this case,
 this is markdown, a simple mark-up language for displaying text.
 
 So without further ado here's a poem ....
+BAnana
 
 pear
 ## The goat
